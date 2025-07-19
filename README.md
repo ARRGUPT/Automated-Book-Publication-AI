@@ -92,7 +92,7 @@ The primary objective is to create a system that can fetch content from a web UR
 
 ## Submission Details
 
-- **Recorded Video:** A demonstration video showcasing the workflow (scraping, AI spinning, human review, semantic search).
+- **Recorded Video:** [Demonstration Video Link](https://youtu.be/1ikmzjTAjr8)
 - **Public Git Repository:** This repository contains all the code and documentation.
 
 ## Developer License & Plagiarism Policy
