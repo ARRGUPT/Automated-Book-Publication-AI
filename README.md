@@ -101,6 +101,6 @@ The primary objective is to create a system that can fetch content from a web UR
 - This task is for evaluation purposes only.
 - Plagiarism is strictly prohibited. All code and explanations were written by me. AI tools were used for generating content within the simulated workflow as per the assignment's requirements, but not for generating the submission itself.
 
-## All the best!
+## THANKS!
 
 ---
