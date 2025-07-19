@@ -54,8 +54,8 @@ The primary objective is to create a system that can fetch content from a web UR
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd internship_project
+    git clone https://github.com/ARRGUPT/Automated-Book-Publication-AI
+    cd Automated-Book-Publication-AI
     ```
 2.  **Set up Virtual Environment (Recommended):**
     ```bash
